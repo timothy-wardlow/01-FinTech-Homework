@@ -29,7 +29,7 @@
 * They are also venturing into the Payments/Billing and Crypto realms with the acquisition of Galileo and the addition of a feature in their app that allows members to purchase and exchange cryptocurrencies. So they could potentially be gearing up for the future of banking/finance in regards to blockchain.
 
 #### **Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
-*  SoFi focuses on "financially responsible individuals"[2], younger generations who may be looking to refinance student loan debt (or take out new student loans) as well as home/auto loans and insurnace. They offer a robust financial services platform that is "member-centric".
+*  SoFi focuses on "financially responsible individuals"[2], younger generations who may be looking to refinance student loan debt (or take out new student loans) as well as home/auto loans and insurance. They offer a robust financial services platform that is "member-centric".
 *  SoFi currently boasts "over 2.5 million members" on its official website. [1] 
 
 #### **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
@@ -84,11 +84,11 @@
 * I would advise that they invest further in blockchain technology (although they appear to be gearing up to venture further into this domain with the acquisitions of Galileo and Apex) in order to beat their competitors to the future of the finance industry. One particular facet of blockchain that I would be interested to see SoFi tackle would be the improvement in efficiency of the life cycle of a syndicated loan. 
 
 #### **Why do you think that offering this product or service would benefit the company?**
-* I believe that if SoFi were to improve the efficiency of the life cycle of a syndicated loan would even further set them apart from their competitors. Businesses(or individuals) would be attracted to a fast, efficient syndicated loan process oppossed to the inefficient methods in place now. In turn, this would potentially expedite business launches, product releases, project timelines and much more. 
+* I believe that if SoFi were to improve the efficiency of the life cycle of a syndicated loan, it would even further set them apart from their competitors. Businesses(or individuals) would be attracted to a fast, efficient syndicated loan process oppossed to the inefficient methods in place now. In turn, this would potentially expedite business launches, product releases, project timelines and much more. 
 
 #### **What technologies would this additional product or service utilize?**
 * Blockchain - Utilizing blockchain as a ledger that can be referenced back to by all lenders.
-* APIs - Utilizing APIs to connect lendees to lenders and vice versa.
+* APIs - Utilizing APIs to connect lendees to lenders.
 
 #### **Why are these technologies appropriate for your solution?** 
 * These technologies would be neccessary in order to re-invent the life cycle of a syndicated loan. Without Blockchain, there would be no universal, decentralized ledger for all involved lenders to reference back to when working through the loan process. 
